@@ -26,4 +26,11 @@ public class MainActivity extends AppCompatActivity {
     public void test() {
         System.out.println("");
     }
+
+    /**
+     * afsjaksfkasjfk
+     */
+    public void masterTest(){
+        System.out.println("sadfasfa");
+    }
 }
