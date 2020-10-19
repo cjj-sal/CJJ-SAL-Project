@@ -8,6 +8,7 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * 你好
+     *
      * @param savedInstanceState
      */
     @Override
@@ -16,5 +17,13 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //TODO dss
         //
+    }
+
+
+    /**
+     * 你好。。。。
+     */
+    public void test() {
+        System.out.println("");
     }
 }
